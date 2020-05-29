@@ -4,8 +4,17 @@ a {
 
 img {
   width: 25%;
+}
+
+.bird {
+  width: 25%;
   padding: 15px;
   float: left;
+}
+
+.meme {
+  width: 30%;
+  border-radius: 8px;
 }
 
 .chance {
