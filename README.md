@@ -10,13 +10,13 @@ _This webpage project was created in order to display a collection of developmen
 
 ## Setup/Installation Requirements
 
-* _Use the following link to open index.html: https://nkososik.github.io/Programming-Portfolio_
+* _Use the following link to open index.html: https://nkososik.github.io/Programming-Portfolio/_
 * _Clone this project from github using git clone_
 * _Or download .zip files and extract to a folder of your choice_
 * _Open in your code editor of choice or vs code_
 * _Drag the .html into your browser or run code index.html (if you are in the project directory)_
 
-_Follow through the instructions listed above or access the site throught the following github pages link: https://nkososik.github.io/Programming-Portfolio! If you want to access the CSS stylesheet, open your code editor, make sure you are in the correct directory where the project has  run code css/styles.css._
+_Follow through the instructions listed above or access the site throught the following github pages link: https://nkososik.github.io/Programming-Portfolio/! If you want to access the CSS stylesheet, open your code editor, make sure you are in the correct directory where the project has  run code css/styles.css._
 
 ## Known Bugs
 
