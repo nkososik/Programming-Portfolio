@@ -49,3 +49,10 @@ color: slategray
   margin: 15px;
   padding: 15px;
 }
+
+@media screen and (max-width: 768px) {
+  body {
+    background-color: thistle;
+    color: black
+  }
+}
