@@ -34,8 +34,13 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
   background-color: aquamarine;
 }
 
-.col-md-4 {
+.col-md-3 {
   float: right;
+  margin: 15px;
+  padding: 15px;
+}
+
+.col-md-5{
   margin: 15px;
   padding: 15px;
 }
