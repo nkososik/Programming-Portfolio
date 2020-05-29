@@ -1,21 +1,22 @@
 # _Programming Portfolio Webpage_
 
-#### _Project tests media query applications for HTML sites, May 29th, 2020_
+#### _This webpage project displays my programming portfolio after the first week at Epicodus as well as useful information about me and my journey into web and software development, May 29th, 2020_
 
 #### By _**Nikolas Kososik**_
 
 ## Description
 
-_This project was created in order to test the application of media queries upon HTML sites through a CSS stylesheet. This project was done as a lesson at Epicodus._
+_This webpage project was created in order to display a collection of development tools as well as my personal progress over the first week of lessons at Epicodus. Included are an about me section, image of myself, and a list (with corresponding links when available) of the projects I have been involved in thus far. This project was done as an independent coding project at Epicodus._
 
 ## Setup/Installation Requirements
 
+* _Use the following link to open index.html: 
 * _Clone this project from github using git clone_
 * _Or download .zip files and extract!_
 * _Open in your code editor of choice or vs code_
-* _Drag the .html into your browser or run code media-query-site.html_
+* _Drag the .html into your browser or run code index.html_
 
-_Follow through the instructions listed above! If you want to access the CSS stylesheet, open your code editor, run code css/styles.css._
+_Follow through the instructions listed above or access the site throught the following github pages link: ! If you want to access the CSS stylesheet, open your code editor, run code css/styles.css._
 
 ## Known Bugs
 
