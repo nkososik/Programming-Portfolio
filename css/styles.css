@@ -8,6 +8,12 @@ img {
   float: left;
 }
 
+.chance {
+  border: 2px solid yellow;
+  padding: 2px;
+  float: right
+}
+
 body {
   background-color: sandybrown;
 }
