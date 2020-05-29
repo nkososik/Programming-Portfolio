@@ -1,13 +1,26 @@
 img {
-  width: 30%;
-  border: 5px solid purple;
+  width: 25%;
   padding: 10px;
   float: left;
+}
+
+body {
+  background-color: sandybrown;
 }
 
 .about {
   margin: 25px;
   text-align: center;
   font-family: 'Times New Roman', Times, serif;
-  font-weight: bold;
+  font-weight: bolder;
+}
+
+.container {
+  text-align: center;
+  background-color: aquamarine;
+  border: 5px solid purple;
+}
+
+.jumbotron {
+  background-color: aquamarine;
 }
