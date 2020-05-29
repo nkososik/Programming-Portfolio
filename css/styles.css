@@ -24,3 +24,9 @@ body {
 .jumbotron {
   background-color: aquamarine;
 }
+
+.col-md-4 {
+  float: right;
+  margin: 15px;
+  padding: 15px;
+}
